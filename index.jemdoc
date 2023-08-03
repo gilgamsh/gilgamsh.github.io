@@ -10,53 +10,50 @@
 = Jiaxi Jiang (江嘉熙)
 
 *Ph.D. Student*  
-[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
-[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
-*Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] \n
-*Email*:jshmjjx@126.com\n
-{{<a href="https://github.com/lanchengzou" target="<u>blank"><img src="img/github-3.png" height=30></a>}} \n           
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] 
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] 
+*Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] 
+*Email*:jshmjjx@126.com
+{{<a href="https://github.com/gilgamsh" target="<u>blank"><img src="img/github-3.png" height=30></a>}}           
 ~~~
 
 
 
 
 == Biography
-I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. Prior to that, I obtained my B.Eng. degree in Electronic Information Engineering from [https://www.whu.edu.cn/ Wuhan University] in 2023.\n 
+I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. Before, I got my B.E from @[NWPU CS](https://en.nwpu.edu.cn/) in July, 2023. 
 
 == Recent News
 ~~~
-- Jul/2023: *Congratulation!* Our work on multimodility-based congestion prediction has been accepted by ICCAD!
+Looking forward to any good news.
 ~~~
 
 
 == Research Interest
-- AI in EDA
-- VLSI Placement
+- Efficient Physical Design&Verification
 
 == Publication
 #
-- \[C2\] S. Zheng\*, *L. Zou\**, P.Xu, S. Liu, B. Yu, M. D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", International Conference on Computer-Aided Design (ICCAD), 2023
-#
-- \[C1\] S. Zheng, *L. Zou*, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023
+- \[C1\] Zhuolun He, Yihang Zuo, *Jiaxi Jiang*, Haisheng Zheng, Yuzhe Ma, and Bei Yu. “OpenDRC: An Efficient Open-Source Design Rule Checking Engine with Hierarchical GPU Acceleration,” ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2023.
 
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
-- B.Eng., School of Electronic Information, Wuhan University (WHU), Aug\/2019 - Jun\/2023
+- B.Eng., School of Computer Science, Northwestern Polytechnical University (NPU/NWPU), Aug\/2019 - Jun\/2023
 
 == Experiences
-*[https://cn.smartmore.com/ SmartMore]* Shenzhen, China
-- Intern, Feb. 2023 - Aug. 2023
+*[https://www.shlab.org.cn/en Shanghai Artificial Intelligence Laboratory]* Shanghai, China
+- Intern, Nov. 2022 - Jun. 2023
 
 == Selected Awards
 ~~~
 {}{table}{noborder}
  
- Full Postgraduate Studentship,     |The Chinese University of Hong Kong,     |2023-2027||
+ National Scholarship,     |2020,2021|
 ~~~
 
 == Skills
-- Languages: C\/C\+\+, Python, Verilog
-- Tools    : PyTorch, Tensorflow, Vivado, LaTeX
+- Languages: C\/C\+\+\/Rust, Python, Verilog
+- Tools    : PyTorch, Vivado, LaTeX
 
 
 
