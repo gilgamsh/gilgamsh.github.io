@@ -36,6 +36,9 @@ Looking forward to any good news.
 #
 - \[C1\] Zhuolun He, Yihang Zuo, *Jiaxi Jiang*, Haisheng Zheng, Yuzhe Ma, and Bei Yu. “OpenDRC: An Efficient Open-Source Design Rule Checking Engine with Hierarchical GPU Acceleration,” ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2023.
 
+- \[C2\] Siting Liu, *Jiaxi Jiang*, Zhuolun He, Ziyi Wang, Yibo Lin, Bei Yu, Martin Wong, “Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2024.
+
+- \[C3\] *Jiaxi Jiang*, Lancheng Zou, Wenqian Zhao, Zhuolun He, Tinghuan Chen, Bei Yu, “PDRC: Package Design Rule Checking via GPU-Accelerated Geometric Intersection Algorithms for Non-Manhattan Geometry”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
 - B.Eng., School of Computer Science, Northwestern Polytechnical University (NPU/NWPU), Aug\/2019 - Jun\/2023
