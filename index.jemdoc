@@ -38,9 +38,20 @@ Looking forward to any good news.
 #
 - \[C1\] Zhuolun He, Yihang Zuo, *Jiaxi Jiang*, Haisheng Zheng, Yuzhe Ma, and Bei Yu. “OpenDRC: An Efficient Open-Source Design Rule Checking Engine with Hierarchical GPU Acceleration,” ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2023.
 
-- \[C2\] Siting Liu, *Jiaxi Jiang*, Zhuolun He, Ziyi Wang, Yibo Lin, Bei Yu, Martin Wong, “Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2024.
+- \[C2\] Siting Liu, *Jiaxi Jiang*, Zhuolun He, Ziyi Wang, Yibo Lin, Bei Yu, Martin Wong, “Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs”, ACM International Symposium on Physical Design (ISPD), Taipei, Mar. 12–15, 2024. (paper) (slides)
 
 - \[C3\] *Jiaxi Jiang*, Lancheng Zou, Wenqian Zhao, Zhuolun He, Tinghuan Chen, Bei Yu, “PDRC: Package Design Rule Checking via GPU-Accelerated Geometric Intersection Algorithms for Non-Manhattan Geometry”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun. 23–27, 2024.
+- \[C4\] Shuo Yin, Jiahao Xu, *Jiaxi Jiang*, Mingjun Li, Yuzhe Ma, Tsung-Yi Ho, Bei Yu, “G-Contour: GPU Accelerated Contour Tracing For Large-Scale Layouts”, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Oct. 26–30, 2025.
+
+- \[C5\] H Yuan, C Zhao, S Fan, *Jiaxi Jiang*, J Yang, “Unsupervised learning of 3d semantic keypoints with mutual reconstruction”, European Conference on Computer Vision (ECCV), 2022.
+
+- \[J1\] *Jiaxi Jiang*, Yuan Pu, Mingjun Li, Yuxuan Zhao, Peiyu Liao, Zuodong Zhang, Yibo Lin, Bei Yu, “RegPlace: Regularity-aware Placement for Full-System DNN Accelerator Designs”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+
+- \[J2\] Siting Liu, Jieya Zhou, *Jiaxi Jiang*, Zhuolun He, Ziyi Wang, Yibo Lin, Bei Yu, Martin Wong, “Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
+
+- \[J3\] Xinyun Zhang, Binwu Zhu, Fangzhou Liu, *Jiaxi Jiang*, Ziyi Wang, Peng Xu, Hong Xu, Bei Yu, “Pre-Routing Timing Prediction Across Different Technology Nodes”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 07, pp. 2697–2710, 2025. (paper)
+
+- \[J4\] Yuxuan Zhao, Peiyu Liao, Siting Liu, *Jiaxi Jiang*, Yibo Lin, Bei Yu, “Analytical Heterogeneous Die-to-Die 3D Placement with Macros”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 44, no. 02, pp. 402–415, 2025. (paper)
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
 - B.Eng., School of Computer Science, Northwestern Polytechnical University (NPU/NWPU), Aug\/2019 - Jun\/2023
